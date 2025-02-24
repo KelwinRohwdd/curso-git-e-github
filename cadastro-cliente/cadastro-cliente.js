@@ -1,0 +1,1 @@
+console.log ('cadastro feito com sucesso!')
